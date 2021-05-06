@@ -11,15 +11,15 @@ This is a fully functional eCommerce website with a beautiful user interface and
 ## Preview
 #### Store
 <p align="left">
-  <img width="580" src="https://github.com/Ruhul12/eCommerce/blob/main/preview/store.png">
+  <img width="680" src="https://github.com/Ruhul12/eCommerce/blob/main/preview/store.png">
 </p>
 
 #### Cart
 <p align="left">
-  <img width="580" src="https://github.com/Ruhul12/eCommerce/blob/main/preview/cart.png">
+  <img width="680" src="https://github.com/Ruhul12/eCommerce/blob/main/preview/cart.png">
 </p>
 
 #### Checkout
 <p align="left">
-  <img width="580" src="https://github.com/Ruhul12/eCommerce/blob/main/preview/check-out.png">
+  <img width="680" src="https://github.com/Ruhul12/eCommerce/blob/main/preview/check-out.png">
 </p>
