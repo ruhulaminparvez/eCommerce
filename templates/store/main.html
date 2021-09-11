@@ -8,7 +8,13 @@
             <link rel="shortcut icon" type="images" href="{% static 'images/icon.ico' %}">
             <link rel="stylesheet" type="text/css" href="{% static 'css/main.css' %}">
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-            <script type="text/javascript"> 
+          
+            <link rel="preconnect" href="https://fonts.googleapis.com">
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+            <link href="https://fonts.googleapis.com/css2?family=Glory:wght@500&display=swap" rel="stylesheet">
+
+
+            <script type="text/javascript">
             var user = '{{ request.user }}'
             
             function getToken(name) {
@@ -31,7 +37,7 @@
 
             </script>
      </head>
-     <body>
+     <body style="font-family: 'Glory', sans-serif;">
 
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
           <a class="navbar-brand" href="{% url 'store' %}"><img width="40px" height="40px" src="{% static 'images/logo.png' %}">e-Commerce</a>
@@ -65,7 +71,7 @@
                 <br>
          </div>
 
-
+      <nav class="navbar navbar-expand-lg navbar-light bg-light"><span style="font-family: 'Glory', sans-serif; color: black; margin-top: 2%; margin-left: 540px;"> ©️ Build by Ruhul Amin Parvez with ❤️ </span></nav>
 
       <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 
