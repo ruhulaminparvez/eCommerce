@@ -62,4 +62,4 @@ python manage.py runserver
 if there any known bugs found please let me know. Please enjoy and feel free to share your opinion, constructive criticism, or comments about my work. Email: 👉 ruhulaminparvez007@gmail.com 😊 Thank you!
 
 ## Deployment
-Live Demo: 
+👉 Live Demo: [e-Commerce](https://e-commerce0.herokuapp.com/)
