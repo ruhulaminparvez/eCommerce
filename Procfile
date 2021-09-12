@@ -1,0 +1,1 @@
+web: guicorn e-commerce0.wsgi --log-file -
