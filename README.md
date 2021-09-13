@@ -58,7 +58,7 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 
-## Deployment
+## Deployed
 👉 Live Demo: [e-Commerce](https://ruhulaminparvez.pythonanywhere.com/)
 
 ## Bugs
